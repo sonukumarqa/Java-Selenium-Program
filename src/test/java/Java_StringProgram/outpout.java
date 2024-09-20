@@ -1,4 +1,4 @@
-package JavaProgramm;
+package Java_StringProgram;
 
 public class outpout {
 	

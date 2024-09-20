@@ -1,4 +1,4 @@
-package JavaProgramm;
+package Java_StringProgram;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
